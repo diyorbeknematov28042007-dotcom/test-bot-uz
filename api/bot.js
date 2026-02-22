@@ -2,7 +2,7 @@ import { Telegraf } from 'telegraf';
 import { createClient } from '@supabase/supabase-js';
 
 const bot = new Telegraf(process.env.8590338050:AAH5-osx-g1VpgtvcUogYJE5E7H2y-f8YSM);
-const supabase = createClient(process.env.hjwjomkywxnijfxnrwdt, process.env.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Imhqd2pvbWt5d3huaWpmeG5yd2R0Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3Njk4NDc1NzEsImV4cCI6MjA4NTQyMzU3MX0.Yezqsbh0wku8svYkO4LPfibUuOhsVdSHKKqbzjahVoU);
+const supabase = createClient(process.env.https://hjwjomkywxnijfxnrwdt.supabase.co, process.env.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Imhqd2pvbWt5d3huaWpmeG5yd2R0Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3Njk4NDc1NzEsImV4cCI6MjA4NTQyMzU3MX0.Yezqsbh0wku8svYkO4LPfibUuOhsVdSHKKqbzjahVoU);
 const ADMIN_ID = process.env.6045817037; // Sizning ID raqamingiz
 const GROUP_ID = process.env.-1003621378351; // Natijalar tashlanadigan guruh IDsi
 
