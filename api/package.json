@@ -1,0 +1,9 @@
+{
+  "name": "test-bot",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "telegraf": "^4.15.0",
+    "@supabase/supabase-js": "^2.39.0"
+  }
+}
