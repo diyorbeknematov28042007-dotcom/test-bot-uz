@@ -8,7 +8,7 @@ const GROUP_ID = process.env.-1003621378351; // Natijalar tashlanadigan guruh ID
 
 bot.start(async (ctx) => {
     // Web App URL ni Vercel bergandan keyin o'zgartiramiz (masalan: https://loyihangiz.vercel.app)
-    const webAppUrl = process.env.WEB_APP_URL; 
+    const webAppUrl = process.env.https://test-bot-uz.vercel.app/; 
     await ctx.reply("Assalomu alaykum. Testni boshlash uchun ilovani oching:", {
         reply_markup: {
             keyboard: [[{ text: "Test ishlash 📝", web_app: { url: webAppUrl } }]],
